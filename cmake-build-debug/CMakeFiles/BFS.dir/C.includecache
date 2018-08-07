@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gooryl/Documents/MyProjects/BFS/Header/main.h
+
+/Users/gooryl/Documents/MyProjects/BFS/Sourse/main.c
+stdio.h
+/Users/gooryl/Documents/MyProjects/BFS/Sourse/stdio.h
+stdlib.h
+/Users/gooryl/Documents/MyProjects/BFS/Sourse/stdlib.h
+../Header/main.h
+/Users/gooryl/Documents/MyProjects/BFS/Header/main.h
+
